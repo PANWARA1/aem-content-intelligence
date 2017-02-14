@@ -1,0 +1,2 @@
+# aem-content-intelligence
+This plug-in helps content authors to tag content automatically based on the content. This plugin is intelligent enough to detect language entered by authors and analyze the content by using Apache Natural Language processing tool. This is a powerful feature for content authors to structure content based on the auto created tags. Content authors do not need to tag pages manually.  
